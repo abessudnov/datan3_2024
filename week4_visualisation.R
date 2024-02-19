@@ -11,7 +11,6 @@ library(vroom)
 # a density plot and a box plot.
 # 
 
-library(vroom)
 
 m_indresp <- vroom("UKDA-6614-tab/tab/ukhls/m_indresp.tab")
   
